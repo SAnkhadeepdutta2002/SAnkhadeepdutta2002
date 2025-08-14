@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Sankhadeep Dutta</h1>
+<h3 align="center">🚀 Embedded Systems & IoT Developer | Robotics | C/C++ | Python</h3>
 
-<!--
-**SAnkhadeepdutta2002/SAnkhadeepdutta2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌟 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m an **Embedded Systems & IoT Developer** passionate about building intelligent systems for real-world impact. I enjoy sketching , making digital illustrations, and playing immersive games in my downtime.
+
+- 🎓 **B.Tech in Electronics & Computer Engineering (SRMIST, Kattankulathur, Tamil Nadu, India)** — GPA **9.05**
+- 🔧 Skilled in **Embedded C/C++**, **Python**, **OpenCV**, microcontrollers (**Arduino**, **STM**, **Esp-Boards**), Single Board Computers (**Raspberry pi**)
+- 📄 **Technical Interest** — AI/ML, deep learning, Robotics,UI/UX design
+
+## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,opencv,matlab,firebase)](https://skillicons.dev)
+
